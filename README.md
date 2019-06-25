@@ -21,6 +21,7 @@ Now we Predict the by using the following steps:-
   METRICS.Classification_report()
   Precision 
   Recall 
-  F1-score
+  F1-score.
+
 Also make the confusion matrix.
 
